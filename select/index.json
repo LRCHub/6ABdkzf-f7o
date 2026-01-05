@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "切り札",
+  "base_artist": "cinema staff",
+  "createdAt": "2026-01-05T17:01:57.314156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "切り札",
+      "artist": "cinema staff",
+      "has_synced": true,
+      "path": "select/01_切り札_cinema_staff.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "切り札",
+      "artist": "cinema staff",
+      "has_synced": false,
+      "path": "select/pl_01_切り札_cinema_staff.txt"
+    }
+  ]
+}
